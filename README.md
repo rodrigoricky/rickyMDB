@@ -5,7 +5,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/NamVr/DiscordBot-Template/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />
   </a>
   <a href="https://twitter.com/namanvrati" target="_blank">
     <img alt="Twitter: namanvrati" src="https://img.shields.io/twitter/follow/namanvrati.svg?style=social" />
@@ -109,6 +109,6 @@ You can also [sponsor](https://ko-fi.com/namanvrati) the project and get listed 
 ## 📝 License
 
 Copyright © 2021 [Ricky Rodrigo](https://github.com/rodrigoricky).<br />
-This project is [MIT](https://github.com/rodrigoricky/rickyMDB/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/rodrigoricky/rickyMDB/blob/main/LICENSE) licensed.
 
 ---
