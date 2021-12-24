@@ -17,8 +17,8 @@
 
 ## Introduction
 
-`NamVr` Discord Bot Template is an open source discord.js based bot template to get started on a new bot project. It is classic javascript template, not requiring any external dependencies unlike other famous frameworks. (This is not a framework!)
-You can scale any kind of bot project using this template. (single server based or multiple server based) It all depends on your creativity!
+`rickyMDB` is a Web based GUI to easily interact with your MongoDB connections and database needs!
+
 
 ### Features:
 ---
@@ -55,22 +55,16 @@ I'm working to make it more professional and easy to use for everyone. There wil
 
 ## Authors
 
-👤 **Naman Vrati**
+👤 **Ricky Rodrigo**
 
-- Website: https://namanvrati.cf/
-- Twitter: [@namanvrati](https://twitter.com/namanvrati)
-- Github: [@NamVr](https://github.com/NamVr)
-- LinkedIn: [@namanvrati](https://linkedin.com/in/namanvrati)
+- Website: https://whois.pnple.org
+- Github: [@RickyRodrig](https://github.com/rodrigoricky)
+- Discord: [@pineapple](https://discord.com/users/852757964291833886)
 
-👤 **Krish Garg**
-
-- Website: https://krishgarg.ga/
-- Twitter: [@KrishGa95586696](https://twitter.com/KrishGa95586696)
-- Github: [@KrishGarg](https://github.com/KrishGarg)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/NamVr/DiscordBot-Template/issues). You can also take a look at the [contributing guide](https://github.com/NamVr/DiscordBot-Template/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]https://github.com/rodrigoricky/rickyMDB/issues). You can also take a look at the [contributing guide](https://github.com/rodrigoricky/rickyMDB/blob/main/CONTRIBUTING.md).
 
 ## Show your support
 
