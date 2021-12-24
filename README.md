@@ -1,20 +1,18 @@
 <h1 align="center">Welcome to rickyMongoDB 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-v3.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/NamVr/DiscordBot-Template#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  <img alt="Version" src="https://img.shields.io/badge/version-v2.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/rodrigoricky/rickyMDB#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-no-red.svg" />
   </a>
-  <a href="https://github.com/NamVr/DiscordBot-Template/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/rodrigoricky/rickyMDB/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />
-  </a>
-  <a href="https://twitter.com/namanvrati" target="_blank">
-    <img alt="Twitter: namanvrati" src="https://img.shields.io/twitter/follow/namanvrati.svg?style=social" />
   </a>
 </p>
 
-> An **open source** `discord.js` bot template which is based on official [discord.js guide](https://discordjs.guide/) to get started on making your very personal discord bot!
+> A cross platform user interface (GUI) to handle all your MongoDB connections/databases needs. rickyMDB is fully responsive and should work on a range of devices.
+> <br><br> **Note:** This project was created a long time ago and no longer maintained, though I still accept pull request to whoever wanna fix the code on this repo.
 
-### 🏠 [Homepage](https://github.com/NamVr/DiscordBot-Template#readme)
+### 🏠 [Homepage](https://github.com/rodrigoricky/rickyMDB#readme)
 
 ## Introduction
 
