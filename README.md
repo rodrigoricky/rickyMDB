@@ -64,7 +64,7 @@ I'm working to make it more professional and easy to use for everyone. There wil
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]https://github.com/rodrigoricky/rickyMDB/issues). You can also take a look at the [contributing guide](https://github.com/rodrigoricky/rickyMDB/blob/main/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/rodrigoricky/rickyMDB/issues). You can also take a look at the [contributing guide](https://github.com/rodrigoricky/rickyMDB/blob/main/CONTRIBUTING.md).
 
 ## Show your support
 
