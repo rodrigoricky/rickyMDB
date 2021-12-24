@@ -11,6 +11,7 @@
 
 > A cross platform user interface (GUI) to handle all your MongoDB connections/databases needs. rickyMDB is fully responsive and should work on a range of devices.
 > <br><br> **Note:** This project was created a long time ago and no longer maintained, though I still accept pull request to whoever wanna fix the code on this repo.
+> <br><br>rickyMDB connection information (including username/password) is stored unencrypted in a config file, it is not recommended to run this application on a production or public facing server without proper security considerations.
 
 ### 🏠 [Homepage](https://github.com/rodrigoricky/rickyMDB#readme)
 
